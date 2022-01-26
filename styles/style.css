@@ -241,6 +241,10 @@
   overflow: hidden;
 }
 .triangle{
+  width: 877px;
+  height: 877px;
+  background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
   position: absolute;
   right: -210px;
   top: 0px;
@@ -306,8 +310,6 @@
   font-weight: bold;
   line-height: 30px;
   padding-bottom: 20px;
-  text-decoration: none;
-  color: white;
 }
 .footer__column-links{
   font-size: 18px;
@@ -324,7 +326,5 @@
   color: white;
 }
 .footer__social_icon{
-  color: white;
-  text-decoration: none;
   margin-right: 10px;
 }
