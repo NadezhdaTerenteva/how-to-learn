@@ -1,0 +1,8 @@
+.kaufman{ /*Стили блока использованы из секции digits (см. выше)с модификатором theme_dark*/
+    background-color: #1f1f1f;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
