@@ -1,5 +1,5 @@
 # how-to-learn
-This is a learning project  - one page website created according the brief from [Яндекс.Практикум](https://www.practicum.yandex.ru).  
+This is a learning project  - one page website created according the brief from [Yandex.Practicum](https://www.practicum.yandex.ru).  
 Main technologies used are **HTML5, CSS** including extended features such as 
 * flex, 
 * animation (keyframes), 
